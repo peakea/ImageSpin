@@ -26,7 +26,7 @@ Test image 3 https://pixabay.com/pl/photos/g%C3%B3ra-alpy-wzg%C3%B3rza-dolina-62
 
 Test image 4 https://pixabay.com/pl/photos/bluets-g%C3%B3rski-wieloletnie-chabry-3440640/
 
-
+Ashley Peake 
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
