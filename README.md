@@ -1,7 +1,6 @@
 # ImageSpin
 Tool for spinning the RGB values in images forwards and backwards using 
-other images allowing the obfuscation of images with unlimited key images 
-and unlimited use of these keys on other other images.
+other images allowing the obfuscation of images with unlimited key images.
 
 The first set of tests uses image 2 to spin image 1 which is not very 
 effective at obfuscating the image.
